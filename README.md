@@ -2,7 +2,7 @@
 AK is a cross-platform AI desktop companion powered by SARTHI and Gemini Live API. Featuring real-time voice interaction, a holographic avatar, persistent memory, system control, autonomous tasks, visual awareness, smart reminders, web search, and a plugin system, AK brings intelligent, personalized automation to Windows, macOS, and Linux.
 
 # ⚙️ AK
-### The Ultimate Cross-Platform Personal AI Assistant — Powered by SARTHI
+### The Ultimate Cross-Platform Personal AI Assistant — Powered by AKASH PATIL
 
 > 📺 **Cross-Platform Autonomous AI Desktop Companion**
 
